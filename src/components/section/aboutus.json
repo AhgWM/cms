@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_section_aboutuses",
+  "info": {
+    "displayName": "aboutus",
+    "icon": "star"
+  },
+  "options": {},
+  "attributes": {
+    "titolo": {
+      "type": "string"
+    }
+  }
+}
